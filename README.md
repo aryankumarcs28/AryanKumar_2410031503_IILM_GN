@@ -1,2 +1,2 @@
-DBMS Experiments
+DBMS Experiments,
 Minor Project Synopsis Report 
